@@ -2,7 +2,7 @@
 
 
 # Introduction to Tableau Part 2
-Description of workshop including what you will learn and any tools that will be used in the process
+This workshop serves as a follow up to the Introduction to Tableau workshop.  In this session we will learn how to make custom measures to enhance our data visualizations, compile our visualizations into dashboards and stories, and finally publish them online using the Tableau Public web interface.
 
 ----
 
