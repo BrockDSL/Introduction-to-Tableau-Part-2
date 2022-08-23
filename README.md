@@ -4,6 +4,10 @@
 # Introduction to Tableau Part 2
 This workshop serves as a follow up to the Introduction to Tableau workshop.  In this session we will learn how to make custom measures to enhance our data visualizations, compile our visualizations into dashboards and stories, and finally publish them online using the Tableau Public web interface.
 
+A basic understanding of Tableau Public is recommended for this workshop.
+
+*Estimated workshop length: 1.5 hours*
+
 ----
 
 ## Setup Instructions
